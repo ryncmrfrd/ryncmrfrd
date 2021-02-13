@@ -1,16 +1,12 @@
-## Hi there 👋
+# hi there 👋
 
-<!--
-**ryncmrfrd/ryncmrfrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### here's some of my web projects:
+* ryncmrfrd.com, my personal website.
+* pageination.ryncmrfrd.com, a js plugin for simple single-page websites.
+* pascal.ryncmrfrd.com, a simple function to generate pascal's triangles.
+* tasks.ryncmrfrd.com, a web-based google tasks interface (and js api).
+* lifx.ryncmrfrd.com, an easy-to-use lifx light controller.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### and some of my chrome extentions:
+* github.com/ryncmrfrd/lp, an extension that does your language perfect homework for you.
+* github.com/ryncmrfrd/tweetmyhistory, an extension which tweets a random google search from your history.
