@@ -10,3 +10,6 @@
 ### and some of my chrome extentions:
 * [github.com/ryncmrfrd/lp](https://github.com/ryncmrfrd/lp), an extension that does your language perfect homework for you.
 * [github.com/ryncmrfrd/tweetmyhistory](https://github.com/ryncmrfrd/tweetmyhistory), an extension which tweets a random google search from your history.
+
+### plus a little something special:
+* [github.com/ryncmrfrd/tasksforwindows](https://github.com/ryncmrfrd/tasksforwindows), a vb.net-based windows task tracker.
