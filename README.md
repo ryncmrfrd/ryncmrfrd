@@ -2,14 +2,15 @@
 
 ### here's some of my web projects:
 * [ryncmrfrd.com](https://ryncmrfrd.com/), my personal website.
-* [pageination.ryncmrfrd.com](https://github.com/ryncmrfrd/pageination), a js plugin for simple single-page websites.
-* [pascal.ryncmrfrd.com](https://pascal.ryncmrfrd.com/), a simple function to generate pascal's triangles.
-* [tasks.ryncmrfrd.com](https://tasks.ryncmrfrd.com/), a web-based google tasks interface (and js api).
-* [lifx.ryncmrfrd.com](https://lifx.ryncmrfrd.com/), an easy-to-use lifx light controller.
+* [ryncmrfrd.com/pageination](https://ryncmrfrd.com/pageination), a js plugin for simple single-page websites.
+* [ryncmrfrd.com/pascal](https://ryncmrfrd.com/pascal), a simple function to generate pascal's triangles.
+* [ryncmrfrd.com/tasks](https://ryncmrfrd.com/tasks), a web-based google tasks interface (and js api).
+* [ryncmrfrd.com/lifx](https://ryncmrfrd.com/lifx), an easy-to-use lifx light controller.
 
 ### and some of my chrome extentions:
 * [github.com/ryncmrfrd/lp](https://github.com/ryncmrfrd/lp), an extension that does your language perfect homework for you.
 * [github.com/ryncmrfrd/tweetmyhistory](https://github.com/ryncmrfrd/tweetmyhistory), an extension which tweets a random google search from your history.
 
-### plus a little something special:
+### plus a couple of special windows projects:
 * [github.com/ryncmrfrd/tasksforwindows](https://github.com/ryncmrfrd/tasksforwindows), a vb.net-based windows task tracker.
+* [github.com/ryncmrfrd/graphingcalculator](https://github.com/ryncmrfrd/graphingcalculator), a vb.net-based graphing calculator. seriously.
