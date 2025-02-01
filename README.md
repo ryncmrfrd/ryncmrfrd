@@ -1,2 +1,7 @@
-# 😃 Hi, I'm Ryan Comerford
-I'm a Software Engineering student at RMIT doing fun coding projects in my spare time. Here on GitHub you can find all of the stuff I've made for fun over the last few years. Feel free to reach out via [email](mailto:hello@ryancomerford.me) for a chat, I love talking all things software :) Have a look through my repositories if you'd like, and if you wouldn't that's okay, have fun on your onward journey!
+# Hi ![Hand Waving Emoji](https://ryancomerford.me//build/img/wave.webp) I'm Ryan
+
+I am passionate about building software that matters to people. I have skills in a variety of programming disciplines through my software design and development education as well as my on-the-job engineering experience. I love to build efficient, readable, and maintainable solutions alongside teams that share my passion.
+
+* [_![Github Logo](https://ryancomerford.me//build/img/github.webp) Github](https://github.com/ryncmrfrd)
+* [ _![Letter Emoji](https://ryancomerford.me/build/img/email.webp) Email](mailto:hello@ryancomerford.me)
+* [ _![Linkedin Logo](https://ryancomerford.me/build/img/linkedin.webp) Linkedin](https://www.linkedin.com/in/r-comerford/) 
